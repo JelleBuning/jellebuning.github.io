@@ -1,1 +1,1 @@
-[Portfolio](https://jellebuning.github.io/portfolio)
+[Portfolio](https://jellebuning.github.io)
