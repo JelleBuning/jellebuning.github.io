@@ -65448,7 +65448,7 @@ am(){return new A.Jw(new A.Dz())}}
 A.Jw.prototype={
 M(a){var s=null,r=this.a.c?1/0:400,q=t.E
 return A.ae7(A.fb(new A.c3(B.cT,A.iR(A.a([this.a6f(a),new A.c3(B.ks,A.fb(A.ai1(A.ag(a).ax.c.ds(25),1),s,s),s),A.fb(new A.IB(B.iF,B.iF,10,B.wl,A.a([new A.xN("images/mail.svg","Email","jellebuning@outlook.com",A.dD("mailto://jellebuning@outlook.com",0,s),s),new A.xN("images/location.svg","Location","Netherlands, Winerswijk",s,s)],q),s),s,1/0),new A.c3(B.ks,A.fb(A.ai1(A.ag(a).ax.c.ds(25),1),s,s),s),A.pG(A.a([A.aeM("images/linkedin.svg",s,20,A.dD("https://www.linkedin.com/in/jellebuning/",0,s)),A.aeM("images/github.svg",s,25,A.dD("https://www.github.com/jellebuning/",0,s))],q),B.ak,B.a3,B.b_,7.5)],q),B.ak,B.a3,0),s),s,r))},
-a6f(a){var s=null,r=A.aiT("/images/memoji.png"),q=A.aiT("/images/me.png"),p=A.iq("Jelle Buning",A.fd(s,s,s,s,s,s,s,s,s,s,s,25,s,s,B.K,s,s,!0,s,s,s,s,s,s,s,s)),o=A.ag(a).ax.c.ds(15),n=A.fZ(new A.aN(7.5,7.5)),m=t.E
+a6f(a){var s=null,r=A.aiT("images/memoji.png"),q=A.aiT("images/me.png"),p=A.iq("Jelle Buning",A.fd(s,s,s,s,s,s,s,s,s,s,s,25,s,s,B.K,s,s,!0,s,s,s,s,s,s,s,s)),o=A.ag(a).ax.c.ds(15),n=A.fZ(new A.aN(7.5,7.5)),m=t.E
 return A.pG(A.a([new A.ue(this.d,new A.rQ(r,s),new A.rQ(new A.Hi(new A.a7l(),B.fi,new A.c3(B.D9,q,s),s),s),!0,B.Dp,B.uR,s),A.iR(A.a([p,A.lX(new A.c3(B.D3,A.iq("Software engineer",A.fd(s,s,A.ag(a).ax.b,s,s,s,s,s,s,s,s,12,s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s)),s),B.A,new A.dJ(o,s,s,n,s,s,B.ap),s,s,s,s)],m),B.ar,B.pT,10)],m),B.ak,B.a3,B.b_,25)}}
 A.a7l.prototype={
 $1(a){return new A.mC(B.iY,B.iX,B.dw,A.a([B.k,B.k,B.k,B.k,B.w],t.t_),null,null).a3j(new A.z(0,0,a.c-a.a,a.d-a.b))},
